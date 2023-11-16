@@ -5,5 +5,7 @@
  }
  
  img {
-    height: 20rem;
- }
+   width: 80%;
+   height: 30%;
+   margin: .5rem auto 1rem auto;
+}
