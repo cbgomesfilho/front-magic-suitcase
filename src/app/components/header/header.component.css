@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+ }
+ 
+ h1 {
+    color: rgb(253, 253, 253);
+    margin-top: 1rem;
+    border: 1px solid rgb(142, 143, 152);
+    padding: 1rem 10%;
+    border-radius: 1rem;
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(37,97,207,1) 0%, rgb(154, 181, 187) 100%);
+ }

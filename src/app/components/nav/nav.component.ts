@@ -13,7 +13,6 @@ export class NavComponent implements OnInit {
 
   ngOnInit(): void {
     this.router.navigate(['home'])
-    throw new Error('Method not implemented.');
   }
 
 }
